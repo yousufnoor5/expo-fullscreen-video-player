@@ -7,8 +7,8 @@ npm i expo-fullscreen-video-player
 ```
 
 # How to use
--> Import Video player component from expo-fullscreen-video-player
--> expo-fullscreen-video-player supports all the props that [Expo-av](https://docs.expo.dev/versions/latest/sdk/video/) supports.
+-> Import Video player component from expo-fullscreen-video-player<br />
+-> expo-fullscreen-video-player supports all the props that [Expo-av](https://docs.expo.dev/versions/latest/sdk/video/) supports.<br />
 -> One extra prop is 'fullscreenMode', by default its set to 'LANDSCAPE'. Possible values are : <br />
 
 LANDSCAPE (string) - Any landscape orientation.<br />
