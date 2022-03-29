@@ -6,6 +6,9 @@ An expo video player component that can be rotated to full screen landscape mode
 npm i expo-fullscreen-video-player
 ```
 
+![DEMO APP](https://user-images.githubusercontent.com/73256222/160706581-4185f17a-7111-42a0-9376-67c7135150cf.gif)
+
+
 # How to use
 -> Import Video player component from expo-fullscreen-video-player<br />
 -> expo-fullscreen-video-player supports all the props that [Expo-av](https://docs.expo.dev/versions/latest/sdk/video/) supports.<br />
