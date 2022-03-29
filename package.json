@@ -1,0 +1,33 @@
+{
+  "name": "expo-fullscreen-video-player",
+  "version": "1.0.0",
+  "description": "An expo video player component that can be rotated to full screen landscape mode.",
+  "main": "index.js",
+  "dependencies": {
+    "expo-av": "~10.1.3",
+    "expo-screen-orientation": "~4.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "expo",
+    "video",
+    "player",
+    "full",
+    "screen",
+    "video",
+    "player",
+    "react",
+    "native",
+    "full",
+    "screen",
+    "video",
+    "player"
+  ],
+  "author": "Muhammad Yousuf Noor",
+  "license": "ISC",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.70.0"
+  }
+}
